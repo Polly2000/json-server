@@ -14,13 +14,18 @@
       "name": "Отдых",
       "colorId": 6,
       "id": 3
+    },
+    {
+      "name": "Покупки",
+      "colorId": 6,
+      "id": 4
     }
   ],
   "tasks": [
     {
       "listId": 1,
       "text": "Написать курсовую",
-      "completed": true,
+      "completed": false,
       "id": 1
     },
     {
@@ -40,6 +45,12 @@
       "text": "Отправиться на каток",
       "completed": false,
       "id": 4
+    },
+    {
+      "listId": 4,
+      "text": "Купить PS5",
+      "completed": false,
+      "id": 5
     }
   ],
   "colors": [
