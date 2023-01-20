@@ -3,21 +3,44 @@
     {
       "name": "Учеба",
       "colorId": 5,
-      "id": 2
+      "id": 1
     },
     {
       "name": "Работа",
       "colorId": 4,
-      "id": 3
+      "id": 2
     },
     {
       "name": "Отдых",
       "colorId": 6,
-      "id": 4
+      "id": 3
     }
   ],
   "tasks": [
-
+    {
+      "listId": 1,
+      "text": "Написать курсовую",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "listId": 1,
+      "text": "Прочитать книгу 'Грокаем алгоритмы'",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "listId": 2,
+      "text": "Закрыть задачи на спринт",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "listId": 3,
+      "text": "Отправиться на каток",
+      "completed": false,
+      "id": 4
+    }
   ],
   "colors": [
     {
