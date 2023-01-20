@@ -1,0 +1,19 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polly2000/json-server.git"
+  },
+  "author": "Polly2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polly2000/json-server/issues"
+  },
+  "homepage": "https://github.com/Polly2000/json-server#readme"
+}
