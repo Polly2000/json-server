@@ -57,7 +57,6 @@
       "completed": true,
       "id": 5
     },
-    
     {
       "listId": 3,
       "text": "Отправиться на каток",
@@ -69,20 +68,19 @@
       "text": "Купить PS5",
       "completed": false,
       "id": 7
-    }
+    },
     {
       "listId": 4,
       "text": "Приобрести книгу 'Гид по Computer Science'",
       "completed": false,
       "id": 8
-    }
+    },
     {
       "listId": 5,
       "text": "Оплатить коммунальные услуги",
       "completed": false,
       "id": 9
     }
-    
   ],
   "colors": [
     {
