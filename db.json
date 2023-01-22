@@ -19,39 +19,70 @@
       "name": "Покупки",
       "colorId": 3,
       "id": 4
+    },
+    {
+      "name": "Дом",
+      "colorId": 7,
+      "id": 5
     }
   ],
   "tasks": [
     {
       "listId": 1,
-      "text": "Написать курсовую",
-      "completed": false,
+      "text": "Прочитать книгу 'Грокаем алгоритмы'",
+      "completed": true,
       "id": 1
     },
     {
       "listId": 1,
-      "text": "Прочитать книгу 'Грокаем алгоритмы'",
-      "completed": true,
+      "text": "Написать курсовую",
+      "completed": false,
       "id": 2
+    },
+    {
+      "listId": 1,
+      "text": "Изучить Redux Toolkit",
+      "completed": false,
+      "id": 3
     },
     {
       "listId": 2,
       "text": "Закрыть задачи на спринт",
       "completed": true,
-      "id": 3
+      "id": 4
     },
+    {
+      "listId": 2,
+      "text": "Быть в офисе в пятницу",
+      "completed": true,
+      "id": 5
+    },
+    
     {
       "listId": 3,
       "text": "Отправиться на каток",
       "completed": false,
-      "id": 4
+      "id": 6
     },
     {
       "listId": 4,
       "text": "Купить PS5",
       "completed": false,
-      "id": 5
+      "id": 7
     }
+    {
+      "listId": 4,
+      "text": "Приобрести книгу 'Гид по Computer Science'",
+      "completed": false,
+      "id": 8
+    }
+    {
+      "listId": 5,
+      "text": "Оплатить коммунальные услуги",
+      "completed": false,
+      "id": 9
+    }
+    
   ],
   "colors": [
     {
