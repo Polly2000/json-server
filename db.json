@@ -1,27 +1,27 @@
 {
   "lists": [
     {
-      "name": "Учеба",
+      "name": "Study",
       "colorId": 5,
       "id": 1
     },
     {
-      "name": "Работа",
+      "name": "Work",
       "colorId": 4,
       "id": 2
     },
     {
-      "name": "Отдых",
+      "name": "Relax",
       "colorId": 6,
       "id": 3
     },
     {
-      "name": "Покупки",
+      "name": "Purchases",
       "colorId": 3,
       "id": 4
     },
     {
-      "name": "Дом",
+      "name": "Home",
       "colorId": 7,
       "id": 5
     }
@@ -29,55 +29,55 @@
   "tasks": [
     {
       "listId": 1,
-      "text": "Прочитать книгу 'Грокаем алгоритмы'",
+      "text": "Read the book 'Grokking Algorithms'",
       "completed": true,
       "id": 1
     },
     {
       "listId": 1,
-      "text": "Написать курсовую",
+      "text": "Learn node.js",
       "completed": false,
       "id": 2
     },
     {
       "listId": 1,
-      "text": "Изучить Redux Toolkit",
+      "text": "Learn Redux Toolkit",
       "completed": false,
       "id": 3
     },
     {
       "listId": 2,
-      "text": "Закрыть задачи на спринт",
+      "text": "Close tasks for a sprint",
       "completed": true,
       "id": 4
     },
     {
       "listId": 2,
-      "text": "Быть в офисе в пятницу",
-      "completed": true,
+      "text": "Be in the office on Friday",
+      "completed": false,
       "id": 5
     },
     {
       "listId": 3,
-      "text": "Отправиться на каток",
+      "text": "Go to the skating rink",
       "completed": false,
       "id": 6
     },
     {
       "listId": 4,
-      "text": "Купить PS5",
+      "text": "Buy PS5",
       "completed": false,
       "id": 7
     },
     {
       "listId": 4,
-      "text": "Приобрести книгу 'Гид по Computer Science'",
+      "text": "To buy the book 'Computer Science guide'",
       "completed": false,
       "id": 8
     },
     {
       "listId": 5,
-      "text": "Оплатить коммунальные услуги",
+      "text": "Pay utility bills",
       "completed": false,
       "id": 9
     }
